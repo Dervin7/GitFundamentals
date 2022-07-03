@@ -12,15 +12,15 @@ A remote can be added with the git remote add command, followed by the name and 
 
 The name is a local name, meaning it's your label and does not impact the actual remote whatsoever.
 
+```
 git remote add origin https://github.com/ElevenfiftyAcademy/GitFundamentals.git
-
+```
 
 ### Removing a remote
 
 A remote can be removed with the git remote remove command, followed by the name of the remote.
 
 git remote remove origin
-
 
 ## Resources
 
@@ -29,3 +29,4 @@ git remote remove origin
 ---
 
 [Back to home](../README.md)
+hello
