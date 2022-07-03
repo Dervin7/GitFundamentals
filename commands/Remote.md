@@ -29,4 +29,3 @@ git remote remove origin
 ---
 
 [Back to home](../README.md)
-hello
